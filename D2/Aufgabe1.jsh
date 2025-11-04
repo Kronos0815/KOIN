@@ -15,3 +15,6 @@ double zeitProDeputat = 41/25.0;
 double deputatsstunden = zeitProDeputat * 44 * 2;
 
 System.out.println(deputatsstunden);
+
+
+int[] array = {1,2,3,4};

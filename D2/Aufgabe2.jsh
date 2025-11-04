@@ -17,6 +17,3 @@ if (zahl1 == zahl2)
         System.out.println(zahl2);
     }
 }
-
-
-
